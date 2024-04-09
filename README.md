@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF822C](https://codeforces.com/problemset/problem/822/C) | Figure out a way to describe two non-intersecting segments. Minimize the value then. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf822c.md) |
-| 2200 | [CF946E](https://codeforces.com/problemset/problem/946/E) | Easy greedy problem. Notice that you can use any digit after the first different character. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf946e.md) |
+| 1800 | [CF301A](https://codeforces.com/problemset/problem/301/A) | What can you do with $2$ operations? | TBD |
+| 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | TBD |

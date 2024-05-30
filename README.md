@@ -14,6 +14,8 @@
 
 - Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
 
+- Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
+
 ## Statistics
 
 Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
@@ -22,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF301A](https://codeforces.com/problemset/problem/301/A) | What can you do with $2$ operations? | TBD |
-| 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | TBD |
+| 1700 | [CF1217C](https://codeforces.com/problemset/problem/1217/C) | Note that the value of $f(l,r)$ shouldn't be too large. | TBD |
+| 2000 | [CF1083B](https://codeforces.com/problemset/problem/1083/B) | Consider prefixes of each length, how many times can they appear? | TBD |
